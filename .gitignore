@@ -5,9 +5,12 @@ data/jobs/*
 !data/jobs/.gitkeep
 data/resumes/*
 !data/resumes/.gitkeep
+data/autoapply_training/.gitkeep
+!data/autoapply_training/.gitkeep
 
-autoapply_training/*
-!autoapply_training/.gitkeep
+autoapply_training/
+model/*
+!model/.gitkeep
 
 # Logs
 logs/*
