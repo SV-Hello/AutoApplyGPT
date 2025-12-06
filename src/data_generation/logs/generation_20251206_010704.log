@@ -1,0 +1,345 @@
+======================================================================
+DATA GENERATION LOG
+Started: 2025-12-06 01:07:04
+Log file: logs/generation_20251206_010704.log
+======================================================================
+
+📂 Loading resume-job pairs...
+len(pairs_df)
+⚠️  TEST MODE: Using only 10000 pairs
+Loaded 10000 pairs
+
+📦 Processing in 100 batches of 100 pairs each
+⚠️  If quota errors occur, reduce BATCH_SIZE in the script (line 360)
+
+======================================================================
+BATCH 1
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 84/10000 pairs processed
+
+======================================================================
+BATCH 2
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 166/10000 pairs processed
+
+======================================================================
+BATCH 3
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 226/10000 pairs processed
+
+======================================================================
+BATCH 4
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 319/10000 pairs processed
+
+======================================================================
+BATCH 5
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 418/10000 pairs processed
+
+======================================================================
+BATCH 6
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 513/10000 pairs processed
+
+======================================================================
+BATCH 7
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 568/10000 pairs processed
+
+======================================================================
+BATCH 8
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 618/10000 pairs processed
+
+======================================================================
+BATCH 9
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 705/10000 pairs processed
+
+======================================================================
+BATCH 10
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 788/10000 pairs processed
+
+======================================================================
+BATCH 11
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 876/10000 pairs processed
+
+======================================================================
+BATCH 12
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 966/10000 pairs processed
+
+======================================================================
+BATCH 13
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1046/10000 pairs processed
+
+======================================================================
+BATCH 14
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1134/10000 pairs processed
+
+======================================================================
+BATCH 15
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1212/10000 pairs processed
+
+======================================================================
+BATCH 16
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1310/10000 pairs processed
+
+======================================================================
+BATCH 17
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1409/10000 pairs processed
+
+======================================================================
+BATCH 18
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1479/10000 pairs processed
+
+======================================================================
+BATCH 19
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1568/10000 pairs processed
+
+======================================================================
+BATCH 20
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1623/10000 pairs processed
+
+======================================================================
+BATCH 21
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1683/10000 pairs processed
+
+======================================================================
+BATCH 22
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1766/10000 pairs processed
+
+======================================================================
+BATCH 23
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1864/10000 pairs processed
+
+======================================================================
+BATCH 24
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1963/10000 pairs processed
+
+======================================================================
+BATCH 25
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2050/10000 pairs processed
+
+======================================================================
+BATCH 26
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2144/10000 pairs processed
+
+======================================================================
+BATCH 27
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2230/10000 pairs processed
+
+======================================================================
+BATCH 28
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2313/10000 pairs processed
+
+======================================================================
+BATCH 29
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2399/10000 pairs processed
+
+======================================================================
+BATCH 30
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2475/10000 pairs processed
+
+======================================================================
+BATCH 31
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2564/10000 pairs processed
+
+======================================================================
+BATCH 32
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2634/10000 pairs processed
+
+======================================================================
+BATCH 33
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2710/10000 pairs processed
+
+======================================================================
+BATCH 34
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2796/10000 pairs processed
+
+======================================================================
+BATCH 35
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2877/10000 pairs processed
+
+======================================================================
+BATCH 36
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2975/10000 pairs processed
+
+======================================================================
+BATCH 37
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 3062/10000 pairs processed
+
+======================================================================
+BATCH 38
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 3132/10000 pairs processed
+
+======================================================================
+BATCH 39
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 491, in <module>
+    main()
+    ~~~~^^
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 491, in <module>
+    main()
+    ~~~~^^
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 465, in main
+    results = process_single_batch(client, batch_df, batch_num, temp_dir)
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 465, in main
+    results = process_single_batch(client, batch_df, batch_num, temp_dir)
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 401, in process_single_batch
+    return [json.loads(line) for line in f]
+                                         ^
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 401, in process_single_batch
+    return [json.loads(line) for line in f]
+                                         ^
+  File "<frozen codecs>", line 322, in decode
+  File "<frozen codecs>", line 322, in decode
+KeyboardInterrupt
+KeyboardInterrupt

@@ -1,0 +1,78 @@
+======================================================================
+AutoApplyGPT Training with LoRA
+======================================================================
+
+📋 Loading configurations...
+📦 Loading model: /scratch/user/u.sv309862/689csce/model
+✅ LoRA applied:
+  Trainable params: 0.00M (0.00%)
+  All params: 2.01B
+
+🔧 Setting up LoRA...
+✅ LoRA applied:
+  Trainable params: 3.15M (0.16%)
+  All params: 2.01B
+📂 Loading dataset from ../../data/autoapply_training/hf_dataset
+Dataset sizes:
+  train: 2335 examples
+  validation: 291 examples
+  test: 293 examples
+🔄 Tokenizing dataset...
+✅ Dataset preprocessed
+
+🚀 Creating trainer...
+
+======================================================================
+Starting training...
+======================================================================
+
+{'loss': 2.3825, 'learning_rate': 0.00019999383841535888, 'epoch': 0.07}
+{'loss': 2.3636, 'learning_rate': 0.00019925536657300734, 'epoch': 0.14}
+{'loss': 2.2747, 'learning_rate': 0.00019729499707593284, 'epoch': 0.21}
+{'loss': 2.2061, 'learning_rate': 0.00019413686333851464, 'epoch': 0.27}
+{'loss': 2.145, 'learning_rate': 0.0001898198440263633, 'epoch': 0.34}
+{'loss': 2.1586, 'learning_rate': 0.0001843970844348421, 'epoch': 0.41}
+{'loss': 2.1138, 'learning_rate': 0.00017793534223616353, 'epoch': 0.48}
+{'loss': 2.0493, 'learning_rate': 0.00017051416564933675, 'epoch': 0.55}
+{'loss': 1.9902, 'learning_rate': 0.00016222491415022507, 'epoch': 0.62}
+{'loss': 1.9714, 'learning_rate': 0.00015316963377740437, 'epoch': 0.68}
+{'eval_loss': 1.961649775505066, 'eval_runtime': 55.8899, 'eval_samples_per_second': 5.207, 'eval_steps_per_second': 1.306, 'epoch': 0.68}
+{'loss': 1.9357, 'learning_rate': 0.00014345980087953405, 'epoch': 0.75}
+{'loss': 1.9273, 'learning_rate': 0.00013321494976952132, 'epoch': 0.82}
+{'loss': 1.8256, 'learning_rate': 0.00012256120117994245, 'epoch': 0.89}
+{'loss': 1.8158, 'learning_rate': 0.00011162970963538462, 'epoch': 0.96}
+{'loss': 1.7719, 'learning_rate': 0.00010055504885555797, 'epoch': 1.03}
+{'loss': 1.7186, 'learning_rate': 8.947355506590749e-05, 'epoch': 1.1}
+{'loss': 1.7344, 'learning_rate': 7.852164861064133e-05, 'epoch': 1.16}
+{'loss': 1.6799, 'learning_rate': 6.783415453020301e-05, 'epoch': 1.23}
+{'loss': 1.669, 'learning_rate': 5.7542642777962664e-05, 'epoch': 1.3}
+{'loss': 1.6274, 'learning_rate': 4.777380850913258e-05, 'epoch': 1.37}
+{'eval_loss': 1.6513080596923828, 'eval_runtime': 55.9068, 'eval_samples_per_second': 5.205, 'eval_steps_per_second': 1.306, 'epoch': 1.37}
+{'loss': 1.6079, 'learning_rate': 3.8647912381595416e-05, 'epoch': 1.44}
+{'loss': 1.6034, 'learning_rate': 3.0277300069550006e-05, 'epoch': 1.51}
+{'loss': 1.5737, 'learning_rate': 2.2765019215716464e-05, 'epoch': 1.58}
+{'loss': 1.5987, 'learning_rate': 1.6203550848313775e-05, 'epoch': 1.64}
+{'loss': 1.5617, 'learning_rate': 1.06736708798844e-05, 'epoch': 1.71}
+{'loss': 1.5457, 'learning_rate': 6.243455703651369e-06, 'epoch': 1.78}
+{'loss': 1.5828, 'learning_rate': 2.9674441291587806e-06, 'epoch': 1.85}
+{'loss': 1.564, 'learning_rate': 8.85965974309011e-07, 'epoch': 1.92}
+{'loss': 1.5538, 'learning_rate': 2.4645579261994844e-08, 'epoch': 1.99}
+{'train_runtime': 3020.1487, 'train_samples_per_second': 1.546, 'train_steps_per_second': 0.097, 'train_loss': 1.8439580512373415, 'epoch': 2.0}
+
+💾 Saving final model...
+✅ Model saved to ../../data/autoapply_training/outputs/final_model
+
+📊 Evaluating on test set...
+
+======================================================================
+Test Results:
+  eval_loss: 1.6434
+  eval_runtime: 56.3112
+  eval_samples_per_second: 5.2030
+  eval_steps_per_second: 1.3140
+  epoch: 2.0000
+======================================================================
+
+✅ Training complete!
+
+🎉 All done!

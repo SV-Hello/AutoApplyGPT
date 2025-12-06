@@ -1,0 +1,611 @@
+======================================================================
+DATA GENERATION LOG
+Started: 2025-12-06 01:07:37
+Log file: logs/generation_20251206_010737.log
+======================================================================
+
+📂 Loading resume-job pairs...
+10000
+⚠️  TEST MODE: Using only 10000 pairs
+Loaded 10000 pairs
+
+📦 Processing in 100 batches of 100 pairs each
+⚠️  If quota errors occur, reduce BATCH_SIZE in the script (line 360)
+
+======================================================================
+BATCH 1
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 84/10000 pairs processed
+
+======================================================================
+BATCH 2
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 166/10000 pairs processed
+
+======================================================================
+BATCH 3
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 226/10000 pairs processed
+
+======================================================================
+BATCH 4
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 319/10000 pairs processed
+
+======================================================================
+BATCH 5
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 418/10000 pairs processed
+
+======================================================================
+BATCH 6
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 513/10000 pairs processed
+
+======================================================================
+BATCH 7
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 568/10000 pairs processed
+
+======================================================================
+BATCH 8
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 618/10000 pairs processed
+
+======================================================================
+BATCH 9
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 705/10000 pairs processed
+
+======================================================================
+BATCH 10
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 788/10000 pairs processed
+
+======================================================================
+BATCH 11
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 876/10000 pairs processed
+
+======================================================================
+BATCH 12
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 966/10000 pairs processed
+
+======================================================================
+BATCH 13
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1046/10000 pairs processed
+
+======================================================================
+BATCH 14
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1134/10000 pairs processed
+
+======================================================================
+BATCH 15
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1212/10000 pairs processed
+
+======================================================================
+BATCH 16
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1310/10000 pairs processed
+
+======================================================================
+BATCH 17
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1409/10000 pairs processed
+
+======================================================================
+BATCH 18
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1479/10000 pairs processed
+
+======================================================================
+BATCH 19
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1568/10000 pairs processed
+
+======================================================================
+BATCH 20
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1623/10000 pairs processed
+
+======================================================================
+BATCH 21
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1683/10000 pairs processed
+
+======================================================================
+BATCH 22
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1766/10000 pairs processed
+
+======================================================================
+BATCH 23
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1864/10000 pairs processed
+
+======================================================================
+BATCH 24
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 1963/10000 pairs processed
+
+======================================================================
+BATCH 25
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2050/10000 pairs processed
+
+======================================================================
+BATCH 26
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2144/10000 pairs processed
+
+======================================================================
+BATCH 27
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2230/10000 pairs processed
+
+======================================================================
+BATCH 28
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2313/10000 pairs processed
+
+======================================================================
+BATCH 29
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2399/10000 pairs processed
+
+======================================================================
+BATCH 30
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2475/10000 pairs processed
+
+======================================================================
+BATCH 31
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2564/10000 pairs processed
+
+======================================================================
+BATCH 32
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2634/10000 pairs processed
+
+======================================================================
+BATCH 33
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2710/10000 pairs processed
+
+======================================================================
+BATCH 34
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2796/10000 pairs processed
+
+======================================================================
+BATCH 35
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2877/10000 pairs processed
+
+======================================================================
+BATCH 36
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 2975/10000 pairs processed
+
+======================================================================
+BATCH 37
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 3062/10000 pairs processed
+
+======================================================================
+BATCH 38
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 3132/10000 pairs processed
+
+======================================================================
+BATCH 39
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 3224/10000 pairs processed
+
+======================================================================
+BATCH 40
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 3311/10000 pairs processed
+
+======================================================================
+BATCH 41
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 3405/10000 pairs processed
+
+======================================================================
+BATCH 42
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 3493/10000 pairs processed
+
+======================================================================
+BATCH 43
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 3580/10000 pairs processed
+
+======================================================================
+BATCH 44
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 3671/10000 pairs processed
+
+======================================================================
+BATCH 45
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 3745/10000 pairs processed
+
+======================================================================
+BATCH 46
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 3816/10000 pairs processed
+
+======================================================================
+BATCH 47
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 3907/10000 pairs processed
+
+======================================================================
+BATCH 48
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 3978/10000 pairs processed
+
+======================================================================
+BATCH 49
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 4052/10000 pairs processed
+
+======================================================================
+BATCH 50
+Processing 100 pairs
+======================================================================
+✅ Loading from cache...
+
+📊 Overall Progress: 4142/10000 pairs processed
+
+======================================================================
+BATCH 51
+Processing 100 pairs
+======================================================================
+📝 Creating batch JSONL file...
+✅ Created JSONL file: ../../data/processed/temp_batches/batch_050_requests.jsonl
+   Total requests: 100
+
+📤 Uploading batch file...
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 491, in <module>
+    main()
+    ~~~~^^
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 491, in <module>
+    main()
+    ~~~~^^
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 465, in main
+    results = process_single_batch(client, batch_df, batch_num, temp_dir)
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 465, in main
+    results = process_single_batch(client, batch_df, batch_num, temp_dir)
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 408, in process_single_batch
+    batch_file = upload_batch_file(client, batch_jsonl)
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 408, in process_single_batch
+    batch_file = upload_batch_file(client, batch_jsonl)
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 119, in upload_batch_file
+    batch_file = client.files.upload(
+            file=jsonl_file,
+            config=types.UploadFileConfig(display_name='my-batch-requests', mime_type='jsonl')
+            )
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 119, in upload_batch_file
+    batch_file = client.files.upload(
+            file=jsonl_file,
+            config=types.UploadFileConfig(display_name='my-batch-requests', mime_type='jsonl')
+            )
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/google/genai/files.py", line 476, in upload
+    response = self._create(
+        file=file_obj,
+    ...<2 lines>...
+        ),
+    )
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/google/genai/files.py", line 476, in upload
+    response = self._create(
+        file=file_obj,
+    ...<2 lines>...
+        ),
+    )
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/google/genai/files.py", line 246, in _create
+    response = self._api_client.request(
+        'post', path, request_dict, http_options
+    )
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/google/genai/files.py", line 246, in _create
+    response = self._api_client.request(
+        'post', path, request_dict, http_options
+    )
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/google/genai/_api_client.py", line 1388, in request
+    response = self._request(http_request, http_options, stream=False)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/google/genai/_api_client.py", line 1388, in request
+    response = self._request(http_request, http_options, stream=False)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/google/genai/_api_client.py", line 1224, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/google/genai/_api_client.py", line 1224, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/tenacity/__init__.py", line 400, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+                                     ~~~~~~~~~~~~~~~~~^^
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/tenacity/__init__.py", line 400, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+                                     ~~~~~~~~~~~~~~~~~^^
+  File "/sw/eb/sw/Python/3.13.1-GCCcore-14.2.0/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/sw/eb/sw/Python/3.13.1-GCCcore-14.2.0/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/sw/eb/sw/Python/3.13.1-GCCcore-14.2.0/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/sw/eb/sw/Python/3.13.1-GCCcore-14.2.0/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/google/genai/_api_client.py", line 1194, in _request_once
+    response = self._httpx_client.request(
+        method=http_request.method,
+    ...<3 lines>...
+        timeout=http_request.timeout,
+    )
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/google/genai/_api_client.py", line 1194, in _request_once
+    response = self._httpx_client.request(
+        method=http_request.method,
+    ...<3 lines>...
+        timeout=http_request.timeout,
+    )
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+        request,
+    ...<2 lines>...
+        history=[],
+    )
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+        request,
+    ...<2 lines>...
+        history=[],
+    )
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+        request,
+        follow_redirects=follow_redirects,
+        history=history,
+    )
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+        request,
+        follow_redirects=follow_redirects,
+        history=history,
+    )
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+        pool_request.request
+    )
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+        pool_request.request
+    )
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpcore/_backends/sync.py", line 208, in connect_tcp
+    sock = socket.create_connection(
+        address,
+        timeout,
+        source_address=source_address,
+    )
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/httpcore/_backends/sync.py", line 208, in connect_tcp
+    sock = socket.create_connection(
+        address,
+        timeout,
+        source_address=source_address,
+    )
+  File "/sw/eb/sw/Python/3.13.1-GCCcore-14.2.0/lib/python3.13/socket.py", line 840, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+               ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sw/eb/sw/Python/3.13.1-GCCcore-14.2.0/lib/python3.13/socket.py", line 840, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+               ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sw/eb/sw/Python/3.13.1-GCCcore-14.2.0/lib/python3.13/socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/sw/eb/sw/Python/3.13.1-GCCcore-14.2.0/lib/python3.13/socket.py", line 975, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+KeyboardInterrupt

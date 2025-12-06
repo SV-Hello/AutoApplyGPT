@@ -1,0 +1,49 @@
+======================================================================
+DATA GENERATION LOG
+Started: 2025-12-06 01:08:46
+Log file: logs/generation_20251206_010846.log
+======================================================================
+
+📂 Loading resume-job pairs...
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 491, in <module>
+    main()
+    ~~~~^^
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 491, in <module>
+    main()
+    ~~~~^^
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 437, in main
+    pairs_df = pd.read_csv(pairs_path)
+  File "/scratch/user/u.sv309862/689csce/src/data_generation/03_generate_with_gemini_batched.py", line 437, in main
+    pairs_df = pd.read_csv(pairs_path)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/pandas/io/parsers/readers.py", line 626, in _read
+    return parser.read(nrows)
+           ~~~~~~~~~~~^^^^^^^
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/pandas/io/parsers/readers.py", line 626, in _read
+    return parser.read(nrows)
+           ~~~~~~~~~~~^^^^^^^
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/pandas/io/parsers/readers.py", line 1923, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+        ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        nrows
+        ^^^^^
+    )
+    ^
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/pandas/io/parsers/readers.py", line 1923, in read
+    ) = self._engine.read(  # type: ignore[attr-defined]
+        ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        nrows
+        ^^^^^
+    )
+    ^
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+  File "/scratch/user/u.sv309862/689csce/.venv/lib/python3.13/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 234, in read
+    chunks = self._reader.read_low_memory(nrows)
+KeyboardInterrupt
+KeyboardInterrupt
