@@ -423,7 +423,7 @@ def process_single_batch(client, batch_df, batch_num, temp_dir):
 
 
 def main():
-    os.environ["GEMINI_API_KEY"] = "AIzaSyAGfRwrgKYONvFhD-2m4EORRT8H92SJNns"
+    os.environ["GEMINI_API_KEY"] = ""
 
     # Paths
     data_dir = Path('../../data/processed')
