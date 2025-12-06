@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+google-genai
+numpy
+tqdm
+datasets
+transformers
+accelerate
+peft
+wandb
+bitsandbytes
